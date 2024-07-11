@@ -31,6 +31,7 @@ A Tkinter app that scrolls lyrics from bottom to top, like movie credits. Yeah, 
     ```sh
     python lyrics_scroller.py
     ```
+4. **You can also go to dist/ and use lyrics_scroller.exe**
 
 ## Usage
 
